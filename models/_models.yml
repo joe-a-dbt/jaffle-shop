@@ -1,0 +1,4 @@
+models:
+  - name: orders
+    description: Example model in parent project
+    access: public
